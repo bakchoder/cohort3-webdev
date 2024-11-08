@@ -17,7 +17,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 **📌 `Note:` Click on the arrow sign to expand to see each topics in details with link.**
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 01 - Orientation, HTML/CSS/Basic JS</summary>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand"><del>Week 01 - Orientation, HTML/CSS/Basic JS</del></summary>
 
 ## 📚 [ Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
@@ -44,7 +44,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
 </details>
 
 <details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Cohort 2 Warmup Videos</summary>
+<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand"><del>Cohort 2 Warmup Videos</del></summary>
 
 ## 📚 [Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
 
